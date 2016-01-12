@@ -13,3 +13,10 @@ C:\Users\balajidasari\Downloads\BalajiDasari-SoftwareEngineer\BalajiDasari-Softw
 C:\Users\balajidasari\Downloads\BalajiDasari-SoftwareEngineer\BalajiDasari-SoftwareEngineer\InterviewCodeTest\RestaurantSearch\RestaurantSearch\obj\Debug\RestaurantSearch.csprojResolveAssemblyReference.cache
 C:\Users\balajidasari\Downloads\BalajiDasari-SoftwareEngineer\BalajiDasari-SoftwareEngineer\InterviewCodeTest\RestaurantSearch\RestaurantSearch\obj\Debug\RestaurantSearch.dll
 C:\Users\balajidasari\Downloads\BalajiDasari-SoftwareEngineer\BalajiDasari-SoftwareEngineer\InterviewCodeTest\RestaurantSearch\RestaurantSearch\obj\Debug\RestaurantSearch.pdb
+C:\github\Sample\InterviewCodeTest\RestaurantSearch\RestaurantSearch\obj\Debug\RestaurantSearch.csprojResolveAssemblyReference.cache
+C:\github\Sample\InterviewCodeTest\RestaurantSearch\RestaurantSearch\obj\Debug\RestaurantSearch.dll
+C:\github\Sample\InterviewCodeTest\RestaurantSearch\RestaurantSearch\obj\Debug\RestaurantSearch.pdb
+C:\github\Sample\InterviewCodeTest\RestaurantSearch\RestaurantSearch\bin\Debug\RestaurantSearch.dll
+C:\github\Sample\InterviewCodeTest\RestaurantSearch\RestaurantSearch\bin\Debug\RestaurantSearch.pdb
+C:\github\Sample\InterviewCodeTest\RestaurantSearch\RestaurantSearch\bin\Debug\Autofac.dll
+C:\github\Sample\InterviewCodeTest\RestaurantSearch\RestaurantSearch\bin\Debug\Autofac.xml
