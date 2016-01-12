@@ -51,6 +51,7 @@
     <Compile Include="ContentResponse.cs" />
     <Compile Include="CusineType.cs" />
     <Compile Include="FindRestaurant.cs" />
+    <Compile Include="IOC.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Restaurant.cs" />
   </ItemGroup>
